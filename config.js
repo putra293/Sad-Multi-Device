@@ -4,14 +4,14 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+6282146218274'],
-  ['+6282146218274'],
-  ['+6282146218274'],
-  ['++6282146218274'],
-  ['+6282146218274', 'rielXzy', true],
-  ['+6283893377366', 'Bot', true],
-  ['+6282146218274', 'Rielxzy', true],
-  ['+6283893377366', 'bot riel', true],
+  ['+6283840600765'],
+  ['+6283840600765'],
+  ['+6283840600765'],
+  ['++6283840600765'],
+  ['+6283840600765', 'rielXzy', true],
+  ['+6283856051043', 'Bot', true],
+  ['+6283840600765', 'PutraVyn', true],
+  ['+6283856051043', 'bot Putra', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,11 +39,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙 あ⁩ 」' //Main Watermark
+global.wm = '                「 PutraBotz あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ 𝗥𝗜𝗘𝗟𝗕𝗢𝗧𝗭'
+global.wm3 = '⫹⫺ PutraBotz'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -52,7 +52,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙 あ⁩ 」'
+global.author = '                「 PutraBotz あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -77,10 +77,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283893377366'
-global.nomorown = '6282146218274'
-global.namebot = '𝐑𝐈𝐄𝐋-𝐌𝐃'
-global.nameown = '𝐑𝐈𝐄𝐋𝐗𝐙𝐘𓆉︎'
+global.nomorbot = '6283856051043'
+global.nomorown = '6283840600765'
+global.namebot = 'PUTRA-𝐌𝐃'
+global.nameown = 'PUTRABOTZ𓆉︎'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
